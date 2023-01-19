@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icons">
+        <item>@drawable/location_white_24dp</item>
+        <item>@drawable/ic_local_phone_black_24dp</item>
+        <item>@drawable/ic_message_white_24dp</item>
+        <item>@drawable/ic_favorite_white_24dp</item>
+    </array>
+    <array name="colors">
+        <item>@android:color/holo_blue_light</item>
+        <item>@android:color/holo_red_light</item>
+        <item>@android:color/holo_purple</item>
+        <item>@android:color/black</item>
+    </array>
+</resources>

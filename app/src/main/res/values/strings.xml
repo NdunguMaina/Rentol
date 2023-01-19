@@ -1,3 +1,42 @@
 <resources>
-    <string name="app_name">Rentol</string>
+    <string name="app_name">Nyumba</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="count">1</string>
+    <string name="nointernet">it appears you don\'t have a working internet connection. Try switching on data or connecting to Wi-Fi and swipe down the page to refresh.</string>
+    <string name="twilio_sid">AMdpCiACjjm44AC2ov1qxTqiihAkdN5t9U</string>
+    <string name="twilio_token">333uB78i2zSvsXnURcqr1ijuPyns2rha35</string>
+    <string name="photo_upload">Your are only allowed to upload between 2 and 6 pictures per ad. The first picture will be used as the dp (display photo) for tenant viewers. Press back to upload</string>
+    <string name="privacy">I confirm that i have read and agreed to Nyumba terms and conditions.</string>
+    <string name="before_upload">It is important to note that the content you upload will be available to any one. Sensitive content is thus discouraged.</string>
+    <string name="report">We look forward to displaying the best and legitimate ad choices. What would you like to report about this ad?</string>
+    <string name="tenant_no_room_string">it appear there are no rooms listed at this time. You can come later or swipe down to refresh. luck!</string>
+    <string name="welcome_text">We are happy you chose to visit our platform today. How would you like Nyumba to help you?</string>
+
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">3285151965078120</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb3285151965078120</string>
+    <string name="title_activity_landlord_home_fragment">LandlordHomeFragment</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
 </resources>

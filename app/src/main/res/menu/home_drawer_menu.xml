@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/account">
+        <item android:title="Home" android:id="@+id/homeMenu"
+            android:icon="@drawable/ic_home">
+
+        </item>
+        <item android:title="Profile" android:id="@+id/profile"
+            android:icon="@drawable/ic_user">
+
+        </item>
+        <item android:id="@+id/about" android:title="About"
+            android:icon="@drawable/ic_information">
+
+        </item>
+        <item android:title="Support" android:id="@+id/support"
+            android:icon="@drawable/ic_money">
+
+        </item>
+        <item android:title="Help Center" android:id="@+id/questions"
+            android:icon="@drawable/ic_question">
+
+        </item>
+        <item android:title="Favourites" android:id="@+id/favourites"
+            android:icon="@drawable/ic_heart">
+
+        </item>
+    </group>
+    <item android:title="Other tools">
+        <menu>
+
+            <item android:id="@+id/share" android:title="Share"
+                android:icon="@drawable/ic_share">
+
+            </item>
+            <item android:title="Log Out" android:id="@+id/logout"
+                android:icon="@drawable/ic_logout">
+
+            </item>
+            <item android:title="Exit Application" android:id="@+id/exit"
+                android:icon="@drawable/ic_exit">
+
+            </item>
+        </menu>
+    </item>
+</menu>
